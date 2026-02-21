@@ -110,7 +110,7 @@ export const members: Members[] = [
     name: 'Leonce',
     role: 'Chant & Harmonies',
     origin: "Côte d'ivoire",
-    image: '/images/members/Leonce.png',
+    image: '/images/members/leonce.png',
     tag: 'Force',
   },
   {
@@ -118,7 +118,7 @@ export const members: Members[] = [
     name: 'Rodrigue',
     role: 'Hip-Hop Master',
     origin: 'Benin',
-    image: '/images/members/Rodrigue.png',
+    image: '/images/members/rodrigue.png',
     tag: 'Aura',
   },
   {
@@ -126,7 +126,7 @@ export const members: Members[] = [
     name: 'Bernard',
     role: 'Ragga-Hip-Hop Master',
     origin: 'Cameroun',
-    image: '/images/members/Bernard_color.png',
+    image: '/images/members/bernard_color.png',
     tag: 'Feu',
   },
   {
@@ -134,7 +134,7 @@ export const members: Members[] = [
     name: 'Franky',
     role: 'Ragga-Hip-Hop Master',
     origin: "Côte d'ivoire",
-    image: '/images/members/Franky.png',
+    image: '/images/members/franky.png',
     tag: 'Noyau',
   },
 ];
